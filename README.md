@@ -1,4 +1,4 @@
-# Calculator Project 
+#  Animated Calculator with Theme changer
 ## About Me
 Hi, I'm Sathya Jayakumar👋, a passionate developer. I love working on projects that help sharpen my skills in web development 💡, and I am always eager to learn and explore new technologies 🔍💻. Let's connect and build something amazing together! 💥
 
